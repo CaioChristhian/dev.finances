@@ -1,5 +1,3 @@
-# dev.finances
-Projeto da Maratona Discover 
 <h1 align="center">
     <img alt="Dev.Finances" src=".images/logo.svg" width="250px" />
 </h1>
